@@ -1,6 +1,4 @@
-Here’s a complete `README.md` file tailored for your **Maze Pathfinding Using BFS and DFS** project written in C:
 
----
 
 ### ✅ `README.md`
 
